@@ -4,6 +4,7 @@
 
 ## Git Workflow
 
+## Fork flow
 ## Version
 
-The current version is v0.01
+The current version is v0.02
